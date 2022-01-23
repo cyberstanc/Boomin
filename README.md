@@ -1,5 +1,5 @@
-#Cyberstanc #Scrutiny #Asterbox #ransomwareintelligence
-Pioneer in Ransomware Detections &amp; Mitigation Strategies
+
+
 
 
 Cyberstanc is a technology-driven company, We offer a product suite specialized in multi-stage ransomware detection utilizing a self-learning engine (no signature dependency), and on the offensive side, we simulate techniques used by different ransomware groups to check corporate readiness against new ransomware strains.
@@ -15,3 +15,8 @@ info@cyberstanc.com
 Blog
 https://cyberstanc.com/blog/
 
+#Cyberstanc 
+
+#Scrutiny #Asterbox #ransomwareintelligence
+
+Pioneer in Ransomware Detections &amp; Mitigation Strategies
