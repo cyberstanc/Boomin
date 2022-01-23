@@ -11,3 +11,7 @@ http://cyberstanc.com/
 
 Email
 info@cyberstanc.com
+
+Blog
+https://cyberstanc.com/blog/
+
